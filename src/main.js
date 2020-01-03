@@ -4,6 +4,7 @@ import 'jquery/dist/jquery.js'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/css/style.css'
 
+
 Vue.config.productionTip = false;
 
 new Vue({
